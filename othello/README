@@ -1,0 +1,11 @@
+Shaastra ID : SHA1400440
+username : achandan
+email ID : chandanakiti@gmail.com
+
+
+==============================================================
+HOW TO GENERATE bot.so file (just in case reference since none of the files in submission are compiled)
+==============================================================
+1. Run make in current directory
+2. Run make in ./othellobot/MyBot directory
+3. bot.so is generated in ./othellobot/MyBot folder
